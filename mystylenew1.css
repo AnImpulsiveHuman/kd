@@ -288,7 +288,7 @@ p {
 
 /*# sourceMappingURL=mystyle.css.map */
 
-@media (max-width: 400px ) {
+@media (max-width: 600px ) {
   #bg { 
     padding: 10px; 
 }
@@ -315,7 +315,7 @@ p {
   .background-container {
     width: 100px;
     height: 100px;
-    top: 90px;
+    top: 30px;
   }
   .background-container2 {
     width: "250"; 
